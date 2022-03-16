@@ -1,0 +1,1 @@
+java -cp ./out/production/SidAgent;./lib/sid-environment-1.3-standalone.jar sid_environment.core --agent my-agent:agents.agent
